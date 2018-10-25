@@ -41,6 +41,7 @@
             $.slider_change($(this).index());
         }
     })
+
     $.extend({
         slider_change: function(direction) {
             prev_num = active_num;

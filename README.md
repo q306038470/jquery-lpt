@@ -1,8 +1,5 @@
-# lbt
-# lbt
-# ctlRe
-# ctlRe
-# ctlRe
-# ctlRe
-# ctlRe
-# jquery-lpt
+# 轮播图插件实现
+
+
+多姿多彩的轮播图插件
+
